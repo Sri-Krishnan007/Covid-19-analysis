@@ -1,5 +1,3 @@
-# Covid-19-analysis
-
 # COVID-19 Data Analysis
 
 A Streamlit web application for interactive analysis and visualization of COVID-19 data in India, supporting raw data exploration, basic statistics, time series analysis, geographical visualization, state/UT-wise analysis, and comparisons.
